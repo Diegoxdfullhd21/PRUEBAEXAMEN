@@ -1,0 +1,33 @@
+
+
+
+.container{
+    display:flex;
+    flex-direction: column;
+    justify-items: center;
+    align-items: center;
+    
+}
+
+.container .full-width{
+    width:20%;
+}
+.container .usuario {
+
+    border-radius: 50%;
+    border: 5px solid black;
+    margin-top: 20px;
+    margin-bottom: 20px
+    
+}
+
+.container .usuario img {
+ 
+    width:100px;
+    height:100px;
+   
+}
+
+
+
+  
